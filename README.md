@@ -28,3 +28,6 @@ A simple library that lets you compress files (6 algorithms available: Shennon, 
     ```
     $ make clean
     ```
+
+## Post Scriptum
+There is also a GUI version of this project availble right [here](https://github.com/snovvcrash/LibCoders-GUI "LibCoders-GUI").
