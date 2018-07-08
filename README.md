@@ -31,3 +31,7 @@ A simple library that lets you compress files (6 algorithms available: Shennon, 
 
 ## Post Scriptum
 There is also a GUI version of this project availble right [here](https://github.com/snovvcrash/LibCoders-GUI "LibCoders-GUI").
+
+If this tool has been useful for you, feel free to buy me a coffee:
+
+[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoff.ee/snovvcrash)
