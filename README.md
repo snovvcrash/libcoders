@@ -3,9 +3,9 @@ Simple library that lets you compress files (6 algorithms available: Shennon, Fa
 
 Made for educational purposes.
 
-## How-to-use:
+# How-to-use:
 
-### 1. Build, run and get help
+## 1. Build, run and get help
 
   * Build
     ```
@@ -23,7 +23,7 @@ Made for educational purposes.
     $ ./libcoders -d -i encoded_file -o decoded_file.txt -m shennon
     ```
   
-  ### 2. Clean project
+  ## 2. Clean project
 
   * Clean
   
@@ -31,7 +31,7 @@ Made for educational purposes.
     $ make clean
     ```
 
-## Post Scriptum
+# Post Scriptum
 There is also a GUI version of this project availble right [here](https://github.com/snovvcrash/LibCoders-GUI "LibCoders-GUI").
 
 If this tool has been useful for you, feel free to buy me a coffee :coffee:
