@@ -32,4 +32,6 @@ Made for educational purposes.
     $ make clean
     ```
 
+# GUI
+
 There is also a GUI version of this project available [here](https://github.com/snovvcrash/LibCoders-GUI "LibCoders-GUI").
